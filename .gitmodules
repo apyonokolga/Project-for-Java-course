@@ -1,0 +1,9 @@
+[submodule "customer/service"]
+	path = customer/service
+	url = https://github.com/apyonokolga/Project-for-Java-course.git
+[submodule "restaurant/service"]
+	path = restaurant/service
+	url = https://github.com/apyonokolga/Project-for-Java-course.git
+[submodule "order/service"]
+	path = order/service
+	url = https://github.com/apyonokolga/Project-for-Java-course.git
