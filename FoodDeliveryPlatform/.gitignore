@@ -1,0 +1,61 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Spring Boot / Maven / Gradle ###
+out/
+.gradle/
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+
+### Логи и временные файлы ###
+*.log
+*.tmp
+*.swp
+
+### ОС-специфичные файлы ###
+.DS_Store
+Thumbs.db
+
+### Конфигурации и секреты ###
+.env
+*.key
+*.pem
+*.crt
+application-secret.yml
